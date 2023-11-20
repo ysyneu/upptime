@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 51,
-    "timeWeek": 101,
+    "timeWeek": 71,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3475,
     "timeDay": 2608,
-    "timeWeek": 3475,
+    "timeWeek": 3639,
     "timeMonth": 3475,
     "timeYear": 3475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 154,
-    "timeWeek": 170,
+    "timeWeek": 161,
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 451,
-    "timeWeek": 334,
+    "timeWeek": 337,
     "timeMonth": 334,
     "timeYear": 334,
     "dailyMinutesDown": {}
