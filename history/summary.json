@@ -22,19 +22,19 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3475,
-    "timeDay": 2608,
-    "timeWeek": 3639,
-    "timeMonth": 3475,
-    "timeYear": 3475,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 3302,
+    "timeDay": 2176,
+    "timeWeek": 3429,
+    "timeMonth": 3302,
+    "timeYear": 3302,
     "dailyMinutesDown": {
-      "2023-11-20": 0
+      "2023-11-20": 16
     }
   },
   {
